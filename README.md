@@ -4,7 +4,9 @@ Albania |	Driver Card, ID Card, Professional DL, Passport
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Algeria	| Driving Licence, ID Card, Passport
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Argentina	Alien ID, Driving Licence, ID Card, Passport
+Argentina |	Alien ID, Driving Licence, ID Card, Passport
+
+
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Armenia	ID Card
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
