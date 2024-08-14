@@ -1,7 +1,8 @@
 # YouVerify_SDK
 
-Albania |	Driver Card, ID Card, Professional DL, Passport
+Country |	Documents
 --- | --- 
+Albania |	Driver Card, ID Card, Professional DL, Passport
 Algeria	| Driving Licence, ID Card, Passport
 Argentina |	Alien ID, Driving Licence, ID Card, Passport
 Armenia |	ID Card
@@ -80,6 +81,5 @@ United Arab Emirates |	Driving Licence, ID Card, Resident ID
 Uganda |	Driving Licence, ID Card
 United Kingdom |	Driving Licence, Passport, Residence Permit
 Uruguay |	ID Card
-United States of America |	Border Crossing Card, Global Entry Card, Green Card, Military ID, Nexus Card, Passport, Social Security Card, Veteran ID
-Work Permit, Driving Licence, ID Card, Weapon Permit
+United States of America |	Border Crossing Card, Global Entry Card, Green Card, Military ID, Nexus Card, Passport, Social Security Card, Veteran ID, Work Permit, Driving Licence, ID Card, Weapon Permit
 Zimbabwe | Passport
